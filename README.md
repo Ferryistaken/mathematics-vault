@@ -27,4 +27,5 @@ Turning this into a website is also on the roadmap:
 - https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_plugins/bidirectional_links_generator.rb
 
 # Errors
+
 Report any bugs/corrections in the [Issue page](https://github.com/Ferryistaken/mahematics-vault/issues).
