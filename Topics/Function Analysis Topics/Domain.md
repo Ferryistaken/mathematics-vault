@@ -9,7 +9,7 @@ Image showing the differences:
 
 ![domain-codomain-graph](/img/domain-codomain-range.png)
 
-# How to FInd the Domain
+# How to Find the Domain
 To find the domain of a function, we must exclude all values of $x$ that could cause problems. As an example:
 - Values that make the denominator $= 0$.
 - Values that make what's under a square root with an even index $< 0$.
