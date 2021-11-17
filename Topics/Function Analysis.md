@@ -4,4 +4,4 @@ Function Analysis at our level includes:
 - [[Domain]]
 - [[Sign]]
 - [[Limits]]
-- [[SIngularities]]
+	- [[Singularities]]
