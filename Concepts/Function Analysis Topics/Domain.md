@@ -20,7 +20,7 @@ To find the domain of a function, we must exclude all values of $x$ that could c
 Once we find the domain, we should write is as an interval, for example:
 
 $$
-D_f = (-\infty; -3] \cup [-3; 4) \cup (4; +\infty)
+D_f = (-\infty; -\text{ a }] \cup [-\text{ a }; \text{ b }) \cup (\text{ b }; +\infty)
 $$
 
 By writing the domain in this way, we can already tell how many [[Limits]] we will need to calculate in order to find out [[Boundedness]], [[Asymptotes]], and [[Singularities]]

@@ -1,6 +1,3 @@
 # List of Topics:
 - [[Function Analysis]]
-	- [[Domain]]
-	- [[Codomain]]
-	- [[Types of Functions]]
-	- [[]]
+- [[Types of Functions]]

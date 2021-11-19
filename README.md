@@ -3,7 +3,7 @@ Digital garden containing most of the high school level math that I know. Made p
 
 This repo should be very useful if you're trying to refresh on some concepts, as everything is short and sweet and very organized.
 
-I wrote this whole thing in [Obsidian](https://obsidian.md), a very useful tool for writing notes, with some nice features such as front and backlinks, meaning that every note can be connected to every other note. This makes it so that every concept can be referenced in every other note, which makes obsidian very useful when organizing large knowledge bases with a lot of short, interconnected topics, such as mathematics.
+I wrote this whole thing in [Obsidian](https://obsidian.md), a very useful tool for writing notes, with some nice features such as front and backlinks, meaning that every note can be connected to every other note. This makes it so that every concept can be referenced in every other note, which makes obsidian very useful when organizing large knowledge bases with a lot of short, interconnected [[Topics]], such as mathematics.
 
 It also generates very nice graphs, such as this one:
 
@@ -16,11 +16,11 @@ Even though I used Obsidian, all files are written in utf-8 encoded .md files, w
 # Notation
 [[Something]] means that \<Something\> is a page. The double brackets create the link in Obsidian. If you aren't viewing this in Obsidian, just know that if you find something written inside double brackets, there is a note about it(or there will be if I haven't written it yet).
 
-Also note that when I use quotes, (" "), it means that I'm using wrong mathematical language, a good example of this would be "the domain is the opposite of the codomain". It doesn't actually mean anything, but it gets the point across.
+Also note that when I use quotes, (" "), it means that I'm using wrong mathematical language, a good example of this would be "the [[Domain]] is the opposite of the codomain". It doesn't actually mean anything, but it gets the point across.
 
 # Roadmap
 
-I will cover all topics covered in the IB program and Italian high school program, since that's what I'm doing.
+I will cover all [[Topics]] covered in the IB program and Italian high school program, since that's what I'm doing.
 
 Turning this into a website is also on the roadmap:
 - https://dev.to/yordiverkroost/publish-your-obsidian-vault-to-your-digital-garden-5bf8
